@@ -14,8 +14,7 @@
                         "y": 35.5,
                         "z": 0
                     },
-                    "widthSU": 2,
-                    "heightSU": 3,
+                    "radiusSU": 3,
 					"rotationDegrees" : 270,
                     "hexColor": "#c634eb",
                     "textHexColor": "#000000",
@@ -29,8 +28,7 @@
                         "y": 32,
                         "z": 0
                     },
-                    "widthSU": 3,
-                    "heightSU": 3,
+                    "radiusSU": 3,
 					"rotationDegrees" : 270,
                     "hexColor": "#c634eb",
                     "textHexColor": "#000000",
