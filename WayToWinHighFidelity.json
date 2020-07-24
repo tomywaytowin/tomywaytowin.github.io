@@ -8,14 +8,15 @@
             "mapImageSrc": "https://map.highfidelity.com/g9pn5813JuKqIGHu/7f214608bcf6f185842bd78e4984f427.jpg",
             "mapLandmarks": [
                 {
-                    "name": "WELCOME!",
+                    "name": "",
                     "positionSU": {
                         "x": 7,
                         "y": 35,
                         "z": 0
                     },
-                    "widthSU": 3,
+                    "widthSU": 2,
                     "heightSU": 3,
+					"rotationDegrees" : 45,
                     "hexColor": "#c634eb",
                     "textHexColor": "#000000",
                     "href": "https://www.youtube.com/watch?v=UbbwW3bNLK0",
