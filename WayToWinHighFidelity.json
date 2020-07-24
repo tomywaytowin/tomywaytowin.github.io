@@ -23,17 +23,19 @@
                     "imageHref": "https://tomywaytowin.github.io/images/tori.png"
                 },
 				{
-                    "name": "VIMEO TEST!",
+                    "name": "",
                     "positionSU": {
-                        "x": 30,
-                        "y": 30,
+                        "x": 27,
+                        "y": 32,
                         "z": 0
                     },
-                    "widthSU": 3,
+                    "widthSU": 2,
                     "heightSU": 3,
-                    "hexColor": "##cba03",
+					"rotationDegrees" : 270,
+                    "hexColor": "#c634eb",
                     "textHexColor": "#000000",
-                    "href": "https://vimeo.com/363368633"
+                    "href": "https://www.youtube.com/watch?v=u1zjVIKcaOI",
+                    "imageHref": "https://tomywaytowin.github.io/images/tori_bar.png"
                 }
             ]
         }
