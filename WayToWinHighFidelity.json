@@ -36,18 +36,6 @@
                     "textHexColor": "#000000",
                     "href": "https://www.youtube.com/watch?v=u1zjVIKcaOI",
                     "imageHref": "https://tomywaytowin.github.io/images/tori_bar.png"
-                },
-				{
-                    "name": "1-1",
-                    "positionSU": {
-                        "x": 1,
-                        "y": 1,
-                        "z": 0
-                    },
-                    "widthSU": 1,
-                    "heightSU": 1,
-                    "hexColor": "#ffffff",
-                    "textHexColor": "#000000"
                 }
             ]
         }
