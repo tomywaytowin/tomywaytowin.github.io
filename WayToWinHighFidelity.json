@@ -48,6 +48,42 @@
                     "heightSU": 1,
                     "hexColor": "#ffffff",
                     "textHexColor": "#000000"
+                },
+				{
+                    "name": "40-0",
+                    "positionSU": {
+                        "x": 40,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "widthSU": 1,
+                    "heightSU": 1,
+                    "hexColor": "#ffff00",
+                    "textHexColor": "#000000"
+                },
+				{
+                    "name": "0-40",
+                    "positionSU": {
+                        "x": 0,
+                        "y": 40,
+                        "z": 0
+                    },
+                    "widthSU": 1,
+                    "heightSU": 1,
+                    "hexColor": "#ff9933",
+                    "textHexColor": "#000000"
+                },
+				{
+                    "name": "40-40",
+                    "positionSU": {
+                        "x": 40,
+                        "y": 40,
+                        "z": 0
+                    },
+                    "widthSU": 1,
+                    "heightSU": 1,
+                    "hexColor": "#ff0000",
+                    "textHexColor": "#000000"
                 }
             ]
         }
