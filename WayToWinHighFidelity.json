@@ -38,10 +38,10 @@
                     "imageHref": "https://tomywaytowin.github.io/images/tori_bar.png"
                 },
 				{
-                    "name": "0-0",
+                    "name": "1-1",
                     "positionSU": {
-                        "x": 0,
-                        "y": 0,
+                        "x": 1,
+                        "y": 1,
                         "z": 0
                     },
                     "widthSU": 1,
