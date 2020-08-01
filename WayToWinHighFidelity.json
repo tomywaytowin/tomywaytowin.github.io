@@ -1,14 +1,14 @@
 {
-    "author": "Tomoko Sugiyama, Alvin Wang",
-    "mapsJSONVersion": "v1.0",
-    "comments": "Way to Win High Fidelity room landmarks.",
+    "author": "Tomoko Sugiyama",
+    "mapsJSONVersion": "v1.1.0",
+    "comments": "An example JSON file that can be imported into High Fidelity. The `mapsJSONVersion` key/value pair should be kept up-to-date with what is in `MapController.js`. Contact the High Fidelity team for assistance.",
     "maps": [
         {
-            "mapName": "Way to Win Room",
+            "mapName": "Demo Map",
             "mapImageSrc": "https://map.highfidelity.com/g9pn5813JuKqIGHu/7f214608bcf6f185842bd78e4984f427.jpg",
             "mapLandmarks": [
                 {
-                    "name": "Tori - Lounge",
+                    "name": "",
                     "positionSU": {
                         "x": 7,
                         "y": 35.5,
@@ -23,7 +23,7 @@
                     "imageHref": "https://tomywaytowin.github.io/images/tori.png"
                 },
 				{
-                    "name": "Tori - Bar",
+                    "name": "",
                     "positionSU": {
                         "x": 27,
                         "y": 32,
@@ -36,56 +36,7 @@
                     "textHexColor": "#000000",
                     "href": "https://www.youtube.com/watch?v=u1zjVIKcaOI",
                     "imageHref": "https://tomywaytowin.github.io/images/tori_bar.png"
-                },
-				{
-					"name": "0-0",
-                    "positionSU": {
-                        "x": 0,
-                        "y": 0,
-                        "z": 0
-                    },
-                    "widthSU": 1,
-                    "heightSU": 1,
-                    "hexColor": "#FFFFFF",
-                    "textHexColor": "#000000"
-				},
-				{
-					"name": "40-0",
-                    "positionSU": {
-                        "x": 40,
-                        "y": 0,
-                        "z": 0
-                    },
-                    "widthSU": 1,
-                    "heightSU": 1,
-                    "hexColor": "#FFFFFF",
-                    "textHexColor": "#000000"
-				},
-				{
-					"name": "0-40",
-                    "positionSU": {
-                        "x": 0,
-                        "y": 40,
-                        "z": 0
-                    },
-                    "widthSU": 1,
-                    "heightSU": 1,
-                    "hexColor": "#FFFFFF",
-                    "textHexColor": "#000000"
-				}
-				,
-				{
-					"name": "40-40",
-                    "positionSU": {
-                        "x": 40,
-                        "y": 40,
-                        "z": 0
-                    },
-                    "widthSU": 1,
-                    "heightSU": 1,
-                    "hexColor": "#FFFFFF",
-                    "textHexColor": "#000000"
-				}
+                }
             ]
         }
     ]
