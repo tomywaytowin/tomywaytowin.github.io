@@ -38,6 +38,21 @@
                     "imageHref": "https://tomywaytowin.github.io/images/leah_cheers.png"
                 },
 				{
+                    "name": "",
+                    "positionSU": {
+                        "x": 15,
+                        "y": 10,
+                        "z": 0
+                    },
+                    "widthSU": 3,
+                    "heightSU": 3,
+					"rotationDegrees" : 270,
+                    "hexColor": "#ffffff00",
+                    "textHexColor": "#000000",
+                    "href": "https://www.youtube.com/watch?v=u1zjVIKcaOI",
+                    "imageHref": "https://tomywaytowin.github.io/images/elena.png"
+                },
+				{
                     "name": "0-0",
                     "positionSU": {
                         "x": 0,
