@@ -66,54 +66,6 @@
                     "textHexColor": "#000000",
                     "href": "https://www.youtube.com/watch?v=u1zjVIKcaOI",
                     "imageHref": "https://tomywaytowin.github.io/images/Colleen.png"
-                },
-				{
-                    "name": "0-0",
-                    "positionSU": {
-                        "x": 0,
-                        "y": 0,
-                        "z": 0
-                    },
-                    "widthSU": 1,
-                    "heightSU": 1,
-                    "hexColor": "#ffffff",
-                    "textHexColor": "#000000"
-                },
-				{
-                    "name": "43-0",
-                    "positionSU": {
-                        "x": 43,
-                        "y": 0,
-                        "z": 0
-                    },
-                    "widthSU": 1,
-                    "heightSU": 1,
-                    "hexColor": "#ffff00",
-                    "textHexColor": "#000000"
-                },
-				{
-                    "name": "0-43",
-                    "positionSU": {
-                        "x": 0,
-                        "y": 43,
-                        "z": 0
-                    },
-                    "widthSU": 1,
-                    "heightSU": 1,
-                    "hexColor": "#ff9933",
-                    "textHexColor": "#000000"
-                },
-				{
-                    "name": "43-43",
-                    "positionSU": {
-                        "x": 43,
-                        "y": 43,
-                        "z": 0
-                    },
-                    "widthSU": 1,
-                    "heightSU": 1,
-                    "hexColor": "#ff0000",
-                    "textHexColor": "#000000"
                 }
             ]
         }
